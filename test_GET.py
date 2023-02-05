@@ -4,7 +4,7 @@ import pytest
 
 def test_api_response():
     location = 'London'
-    url = "https://api.openweathermap.org/data/2.5/weather?q="+location+"&APPID=eb94d4c29e11529ba1d8a292dcdc4197"
+    url = "https://api.openweathermap.org/data/2.5/weather?q="+location+"&APPID="
     response = requests.get(url)
     print(response.status_code)
     print(response.headers)
