@@ -1,0 +1,21 @@
+Overview
+Mockend lets you create fake online REST or GraphQL servers with random data in seconds. It can be used for things such as:
+
+Working without a completed backend
+Building demos or prototypes
+Teaching web development
+Installation
+Setup Mockend(opens in a new tab) on GitHub.
+Copy .mockend.json(opens in a new tab) config file to your repo.
+Note: there may be short delays on GitHub's side for setting up your plan. If you get an error, please retry later or contact us if it persists.
+
+Try it
+Your server will be available at:
+
+https://mockend.com/your_username_or_org/your_repo/posts(opens in a new tab) - REST API
+https://mockend.com/your_username_or_org/your_repo/graphql(opens in a new tab) - GraphQL API
+Throughout the docs, you can also test our demo server:
+
+https://github.com/mockend/demo(opens in a new tab) - Source
+https://mockend.com/mockend/demo/posts(opens in a new tab) - REST API
+https://mockend.com/mockend/demo/graphql(opens in a new tab) - GraphQL API
