@@ -19,3 +19,7 @@ Throughout the docs, you can also test our demo server:
 https://github.com/mockend/demo(opens in a new tab) - Source
 https://mockend.com/mockend/demo/posts(opens in a new tab) - REST API
 https://mockend.com/mockend/demo/graphql(opens in a new tab) - GraphQL API
+
+
+Example:
+https://mockend.com/Muntasir101/API_Automation_Python/posts
