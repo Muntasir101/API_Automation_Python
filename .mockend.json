@@ -5,15 +5,6 @@
 }
 
 
-curl https://mockend.com/org/repo/users
-
-curl https://mockend.com/org/repo/users \
-  -X POST \
-  -H "Content-Type: application/json" \
-  --data '{"name": "alice"}'
-
-https://mockend.com/org/repo/graphql
-
 {
   "User": {
     "name": {
