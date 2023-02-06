@@ -23,3 +23,7 @@ https://mockend.com/mockend/demo/graphql(opens in a new tab) - GraphQL API
 
 Example:
 https://mockend.com/Muntasir101/API_Automation_Python/posts
+https://mockend.com/Muntasir101/API_Automation_Python/posts/1
+https://mockend.com/Muntasir101/API_Automation_Python/posts?createdAt_order=desc
+https://mockend.com/Muntasir101/API_Automation_Python/posts?category_eq=one
+https://mockend.com/Muntasir101/API_Automation_Python/comments?postId_eq=1 
